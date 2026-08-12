@@ -7,4 +7,4 @@ CL-LOG is a general purpose logging utility, loosely modelled in some respects a
 | version | 1.0.1                                                       |
 | systems | cl-log                                                      |
 |---------+-------------------------------------------------------------|
- 
+  
